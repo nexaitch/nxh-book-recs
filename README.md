@@ -13,6 +13,7 @@ TODO: short writeup for each book
 * [Composing Programs](https://www.composingprograms.com/) (Pythonic adaptation of SICP)
 * [Clojure for the Brave and True](https://www.braveclojure.com/clojure-for-the-brave-and-true/) (Clojure)
 * [Learn you a Haskell for Great Good!](http://learnyouahaskell.com/) Intro to Haskell (a functional programming language) for programmers in Imperative languages (who have not done functional programming before)
+* [Project Based Learning](https://github.com/practical-tutorials/project-based-learning) — collection of other project based resources
 
 ### Algorithms / Data Structures
 
