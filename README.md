@@ -1,8 +1,8 @@
 # nxh's Book Recommendations
 
-A list of helpful (and free!) online textbooks.
+A list of helpful (and free!) online textbooks. In general these are ones I've read (feel free to make suggestions and pull requests, though do know that I will only add books I've read).
 
-TODO: short writeup for each book
+TODO: short writeup for each book, maybe a table of contents
 
 ## Computing
 
@@ -29,3 +29,7 @@ TODO: short writeup for each book
 ## Mathematics 
 
 * [Open Textbook Initiative](https://aimath.org/textbooks/) — resource from American Institute of Mathematics with links to high-quality open access textbooks in various fields of Mathematics
+
+## Linguistics / Languages
+
+* [Lexical Sets (for Actors)](https://ecampusontario.pressbooks.pub/lexicalsets/) — an Open Textbook on English Vowels and their many pronunciations in different varieties on English. Targeted at actors, but very useful resource for people interested in English phonetics (not just RP and GenAm)
