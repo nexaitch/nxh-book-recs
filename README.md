@@ -1,8 +1,10 @@
 # nxh's Book Recommendations
 
-A list of helpful (and free!) online textbooks. In general these are ones I've read (feel free to make suggestions and pull requests, though do know that I will only add books I've read).
+A curated list of helpful (and free!) online textbooks. In general these are ones I've read and can personally recommend.
 
-TODO: short writeup for each book, maybe a table of contents
+Feel free to suggest additions via issues or PRs, but do note that I will only include books that I have read and think are good, to ensure a trustable level of quality.
+
+TODO short writeup for each book
 
 ## Computing
 
