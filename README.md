@@ -31,6 +31,7 @@ TODO short writeup for each book
 ## Mathematics 
 
 * [Open Textbook Initiative](https://aimath.org/textbooks/) — resource from American Institute of Mathematics with links to high-quality open access textbooks in various fields of Mathematics
+* [An Infinitely Large Napkin](https://github.com/vEnhance/napkin) — essentially a book on university mathematics for non-math majors, goes very deep in terms of content but leans more towards intuition rather than formality
 
 ## Linguistics / Languages
 
