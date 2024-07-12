@@ -14,8 +14,12 @@ TODO short writeup for each book
 * [How to Design Programs](https://htdp.org/) — introductory textbook on (functional) programming with Racket (a Scheme dialect), which takes a rather unique top-down approach to problem solving
 * [Composing Programs](https://www.composingprograms.com/) (Pythonic adaptation of SICP)
 * [Clojure for the Brave and True](https://www.braveclojure.com/clojure-for-the-brave-and-true/) (Clojure)
-* [Learn you a Haskell for Great Good!](http://learnyouahaskell.com/) Intro to Haskell (a functional programming language) for programmers in Imperative languages (who have not done functional programming before)
+* [Learn you a Haskell for Great Good!](http://learnyouahaskell.com/) — intro to Haskell for programmers in imperative languages (who have not done functional programming before)
 * [Project Based Learning](https://github.com/practical-tutorials/project-based-learning) — collection of other project based resources
+
+### Software Design
+
+* [Software Design by Example](https://third-bit.com/sdxpy/) — book that teaches software design concepts by using programming tools as examples (such as parsers, databases, compilers)
 
 ### Algorithms / Data Structures
 
