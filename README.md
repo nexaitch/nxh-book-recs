@@ -32,6 +32,10 @@ TODO short writeup for each book
 * [Neural Networks for Chess](https://github.com/asdfjkl/neural_network_chess)
 * [Reinforcement Learning: an Introduction](http://incompleteideas.net/book/the-book-2nd.html)
 
+### Programming Languages
+
+* [Programming Language Foundations in Agda](https://plfa.github.io/)
+
 ## Mathematics 
 
 * [Open Textbook Initiative](https://aimath.org/textbooks/) — resource from American Institute of Mathematics with links to high-quality open access textbooks in various fields of Mathematics
